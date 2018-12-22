@@ -1,0 +1,616 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="belcherfamilycomputer.com" resolutions="1x" timestamp="1492617008777">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3815381555" ref="gr:bb3:bb5:cpm-mcm:lp:bb2:cpo-mcm:bb4:cpo:am:rb:bb1:b:index:g:mcm:bb6:gb:l:gl:gf:cpm:t:th:a:m:bb:cpm-mco:mc:cp"/>
+    <file name="master_a-master-louise.css" crc="194053900" ref="lb"/>
+    <file name="master_a-master-tina.css" crc="300868381" ref="thd"/>
+    <file name="gr.css" crc="194898314" ref="gr"/>
+    <file name="bb3.css" crc="405745108" ref="bb3"/>
+    <file name="bb5.css" crc="293644842" ref="bb5"/>
+    <file name="cpm-mcm.css" crc="333424344" ref="cpm-mcm"/>
+    <file name="thd.css" crc="270012933" ref="thd"/>
+    <file name="lp.css" crc="3980066898" ref="lp"/>
+    <file name="bb2.css" crc="4279445201" ref="bb2"/>
+    <file name="cpo-mcm.css" crc="278930687" ref="cpo-mcm"/>
+    <file name="bb4.css" crc="4258363329" ref="bb4"/>
+    <file name="cpo.css" crc="4149510481" ref="cpo"/>
+    <file name="am.css" crc="207496419" ref="am"/>
+    <file name="rb.css" crc="42178018" ref="rb"/>
+    <file name="bb1.css" crc="3918179044" ref="bb1"/>
+    <file name="b.css" crc="3807822037" ref="b"/>
+    <file name="index.css" crc="288478499" ref="index"/>
+    <file name="g.css" crc="3885437392" ref="g"/>
+    <file name="mcm.css" crc="3910908851" ref="mcm"/>
+    <file name="bb6.css" crc="3764441704" ref="bb6"/>
+    <file name="gb.css" crc="350416699" ref="gb"/>
+    <file name="l.css" crc="269798070" ref="l"/>
+    <file name="gl.css" crc="267392114" ref="gl"/>
+    <file name="gf.css" crc="317780359" ref="gf"/>
+    <file name="cpm.css" crc="3893967118" ref="cpm"/>
+    <file name="t.css" crc="3967581066" ref="t"/>
+    <file name="th.css" crc="4251195222" ref="th"/>
+    <file name="lb.css" crc="4075465935" ref="lb"/>
+    <file name="a.css" crc="124381990" ref="a"/>
+    <file name="m.css" crc="3905430215" ref="m"/>
+    <file name="bb.css" crc="3977144529" ref="bb"/>
+    <file name="cpm-mco.css" crc="3905073381" ref="cpm-mco"/>
+    <file name="mc.css" crc="95773967" ref="mc"/>
+    <file name="cp.css" crc="514173497" ref="cp"/>
+  </folder>
+  <folder name="assets">
+    <file name="mycomputericons.jpg" crc="355974336" seo="true" mt="1491847973000"/>
+    <file name="casio.pdf" crc="4206286001" seo="true" mt="1492568775000"/>
+    <file name="bark.mp3" crc="4093803992" seo="true" mt="1492609751000"/>
+    <file name="fart.mp3" crc="3923043900" seo="true" mt="1492610108000"/>
+    <file name="laser.mp3" crc="61100990" seo="true" mt="1492610108000"/>
+    <file name="robot.mp3" crc="217061355" seo="true" mt="1492610108000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+    <file name="museutils.js" crc="4232573551" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+    <file name="whatinput.js" crc="86476730" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+    <file name="museconfig.js" crc="4152223963" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="mc:mcm:cp:cpm:cpm-mco:cpm-mcm:cpo:cpo-mcm:b:l:t:g:lb:thd:gb:gf:gl:gr"/>
+    <file name="webpro.js" crc="3770351119" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+    <file name="touchswipe.js" crc="3912873526" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+    <file name="require.js" crc="4234670167" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6"/>
+  </folder>
+  <folder name="images">
+    <file name="bliss-crop-u106.jpg" crc="3840973568" seo="true" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:bb:th:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="gb" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="mcm" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="m" alt=""/>
+      <caption webpage="b" alt=""/>
+      <caption webpage="th" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cpm-mcm" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="cpm" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="g" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb2" alt=""/>
+    </file>
+    <file name="startbar.jpg" crc="533953759" seo="true" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="g" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="mcm" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="m" alt=""/>
+      <caption webpage="b" alt=""/>
+      <caption webpage="th" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="thd" alt=""/>
+      <caption webpage="cpm-mcm" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="cpm" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb2" alt=""/>
+    </file>
+    <file name="start.gif" crc="229075579" seo="true" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:lb:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="g" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="mcm" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="m" alt=""/>
+      <caption webpage="b" alt=""/>
+      <caption webpage="th" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="thd" alt=""/>
+      <caption webpage="thd" alt=""/>
+      <caption webpage="thd" alt=""/>
+      <caption webpage="cpm-mcm" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lb" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="cpm" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb2" alt=""/>
+    </file>
+    <file name="startmenu2.png" crc="3784495889" seo="true" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:bb:th:thd:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="g" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="mcm" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="m" alt=""/>
+      <caption webpage="b" alt=""/>
+      <caption webpage="th" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="thd" alt=""/>
+      <caption webpage="cpm-mcm" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="cpm" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb2" alt=""/>
+    </file>
+    <file name="start_hover.gif" crc="15936259" ref="mc:lb:thd">
+      <caption webpage="thd" alt=""/>
+      <caption webpage="lb" alt=""/>
+      <caption webpage="mc" alt=""/>
+    </file>
+    <file name="mycomputer.png" crc="3809167" ref="mc:lb:thd">
+      <caption webpage="thd" alt=""/>
+      <caption webpage="lb" alt=""/>
+      <caption webpage="mc" alt=""/>
+    </file>
+    <file name="aim.png" crc="4052049441" ref="mc:lb:thd">
+      <caption webpage="thd" alt=""/>
+      <caption webpage="lb" alt=""/>
+      <caption webpage="mc" alt=""/>
+    </file>
+    <file name="closedfolder.png" crc="264947524" ref="mc:b:l:t:g:lb:thd:gb:gf:gl:gr">
+      <caption webpage="mc" alt=""/>
+    </file>
+    <file name="openfolder.png" crc="429807682" ref="mc:b:l:t:g:lb:thd:gb:gf:gl:gr">
+      <caption webpage="mc" alt=""/>
+    </file>
+    <file name="mycomputer_startbar.jpg" crc="4215591873" ref="mc:mcm:cp:cpm-mco:cpm-mcm:cpo-mcm">
+      <caption webpage="mc" alt=""/>
+    </file>
+    <file name="mycomputer_startbar_hover.png" crc="415102459" ref="mc:mcm:cp:cpm-mco:cpm-mcm:cpo-mcm">
+      <caption webpage="mc" alt=""/>
+    </file>
+    <file name="mycomputer_window.jpg" crc="4081456175" ref="mc:cp:cpm-mco">
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="cp" alt=""/>
+    </file>
+    <file name="a1.jpg" crc="536048694" ref="mc:a:rb:cp:cpm-mco:cpo:cpo-mcm:am:b:l:t:g:bb:th:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="th" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="g" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="a2.jpg" crc="523422890" ref="mc:a:rb:cp:cpm-mco:cpo:cpo-mcm:am:b:l:t:g:bb:th:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="th" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="g" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="b1.jpg" crc="4172491161" ref="mc:a:rb:cp:cpm-mco:cpo:cpo-mcm:am:b:l:t:g:bb:th:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="th" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="g" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="b2.jpg" crc="4036605932" ref="mc:a:rb:cp:cpm-mco:cpo:cpo-mcm:am:b:l:t:g:bb:th:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="th" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="g" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="c1.jpg" crc="3786181217" ref="mc:a:rb:cp:cpm-mco:cpo:cpo-mcm:am:b:l:t:g:bb:th:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="th" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="g" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="c2.jpg" crc="372522626" ref="mc:a:rb:cp:cpm-mco:cpo:cpo-mcm:am:b:l:t:g:bb:th:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="th" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="g" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="controlpanel.png" crc="4140613381" seo="true" ref="mc:cp:cpm-mco:cpo:cpo-mcm">
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="cp" alt=""/>
+    </file>
+    <file name="globe-crop-u992.png" crc="4185046819" seo="true" ref="mc:a:rb:index:mcm:cp:cpm:m:cpm-mco:cpm-mcm:cpo:cpo-mcm:am:b:l:t:g:bb:th:lp:gb:gf:gl:gr:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="gb" alt=""/>
+      <caption webpage="cpo" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="bb5" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="mcm" alt=""/>
+      <caption webpage="l" alt=""/>
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="gl" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="a" alt=""/>
+      <caption webpage="cpm-mco" alt=""/>
+      <caption webpage="m" alt=""/>
+      <caption webpage="b" alt=""/>
+      <caption webpage="th" alt=""/>
+      <caption webpage="rb" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cpm-mcm" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="cpm" alt=""/>
+      <caption webpage="lp" alt=""/>
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="mc" alt=""/>
+      <caption webpage="g" alt=""/>
+      <caption webpage="t" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb2" alt=""/>
+    </file>
+    <file name="recyclefull.png" crc="3782916039" ref="mc:lb:thd">
+      <caption webpage="thd" alt=""/>
+      <caption webpage="lb" alt=""/>
+      <caption webpage="mc" alt=""/>
+    </file>
+    <file name="aim_signon.gif" crc="3941317456" ref="a:am">
+      <caption webpage="am" alt=""/>
+      <caption webpage="a" alt=""/>
+    </file>
+    <file name="recyclebin.jpg" crc="318281823" seo="true" ref="rb">
+      <caption webpage="rb" alt=""/>
+    </file>
+    <file name="controlpanel_window.jpg" crc="352539062" seo="true" ref="cp:cpo:cpo-mcm">
+      <caption webpage="cpo-mcm" alt=""/>
+      <caption webpage="cp" alt=""/>
+      <caption webpage="cpo" alt=""/>
+    </file>
+    <file name="controlpanel_startbar.jpg" crc="320703714" ref="cp:cpm:cpm-mco:cpm-mcm:cpo:cpo-mcm">
+      <caption webpage="cp" alt=""/>
+    </file>
+    <file name="controlpanel_startbar_hover.jpg" crc="3940481344" ref="cp:cpm:cpm-mco:cpm-mcm:cpo:cpo-mcm">
+      <caption webpage="cp" alt=""/>
+    </file>
+    <file name="bob.jpg" crc="130921626" seo="true" ref="b">
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="linda.jpg" crc="3981307103" seo="true" ref="l:lp">
+      <caption webpage="l" alt=""/>
+      <caption webpage="lp" alt=""/>
+    </file>
+    <file name="tina.jpg" crc="385783324" seo="true" ref="t:th">
+      <caption webpage="th" alt=""/>
+      <caption webpage="t" alt=""/>
+    </file>
+    <file name="gene.jpg" crc="181066355" seo="true" ref="g:gb:gf:gl:gr">
+      <caption webpage="g" alt=""/>
+      <caption webpage="gr" alt=""/>
+      <caption webpage="gb" alt=""/>
+      <caption webpage="gf" alt=""/>
+      <caption webpage="gl" alt=""/>
+    </file>
+    <file name="startmenu.jpg" crc="390277464" seo="true" ref="lb">
+      <caption webpage="lb" alt=""/>
+    </file>
+    <file name="start.jpg" crc="4028905884" seo="true" ref="lb">
+      <caption webpage="lb" alt=""/>
+      <caption webpage="lb" alt=""/>
+    </file>
+    <file name="bliss1-crop-u18548.jpg" crc="4234770005" seo="true" ref="lb">
+      <caption webpage="lb" alt=""/>
+    </file>
+    <file name="startbar2.jpg" crc="436232669" seo="true" ref="lb">
+      <caption webpage="lb" alt=""/>
+    </file>
+    <file name="globe-crop-u18545.png" crc="179734142" seo="true" ref="lb">
+      <caption webpage="lb" alt=""/>
+    </file>
+    <file name="word1.jpg" crc="480299634" seo="true" ref="bb">
+      <caption webpage="bb" alt=""/>
+    </file>
+    <file name="d.jpg" crc="223456607" ref="bb:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+    </file>
+    <file name="dh.jpg" crc="4146923357" ref="bb:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+    </file>
+    <file name="u.jpg" crc="4204373519" ref="bb:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+    </file>
+    <file name="uh.jpg" crc="4289665735" ref="bb:bb1:bb2:bb3:bb4:bb5:bb6">
+      <caption webpage="bb" alt=""/>
+      <caption webpage="bb1" alt=""/>
+      <caption webpage="bb6" alt=""/>
+      <caption webpage="bb2" alt=""/>
+      <caption webpage="bb4" alt=""/>
+      <caption webpage="bb3" alt=""/>
+      <caption webpage="bb5" alt=""/>
+    </file>
+    <file name="tina0-crop-u9663.jpg" crc="3901317199" seo="true" ref="th">
+      <caption webpage="th" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="th"/>
+    <file name="tina1.jpg" crc="393900065" seo="true" ref="th">
+      <caption webpage="th" alt=""/>
+    </file>
+    <file name="tina2-crop-u9827.jpg" crc="4248804452" seo="true" ref="th">
+      <caption webpage="th" alt=""/>
+    </file>
+    <file name="tina3-crop-u9853.jpg" crc="203166334" seo="true" ref="th">
+      <caption webpage="th" alt=""/>
+    </file>
+    <file name="tina4-crop-u9879.jpg" crc="3934961326" seo="true" ref="th">
+      <caption webpage="th" alt=""/>
+    </file>
+    <file name="tina5.jpg" crc="52977978" seo="true" ref="th">
+      <caption webpage="th" alt=""/>
+    </file>
+    <file name="tina6.jpg" crc="4197890091" seo="true" ref="th">
+      <caption webpage="th" alt=""/>
+    </file>
+    <file name="tina7-crop-u9957.jpg" crc="4189118945" seo="true" ref="th">
+      <caption webpage="th" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="th"/>
+    <file name="tina8.jpg" crc="413252545" ref="thd">
+      <caption webpage="thd" alt=""/>
+    </file>
+    <file name="globe-crop-u10657.png" crc="3803436578" seo="true" ref="thd">
+      <caption webpage="thd" alt=""/>
+    </file>
+    <file name="word2.png" crc="3894600521" seo="true" ref="bb1">
+      <caption webpage="bb1" alt=""/>
+    </file>
+    <file name="word3.png" crc="4068786844" seo="true" ref="bb2">
+      <caption webpage="bb2" alt=""/>
+    </file>
+    <file name="word4.png" crc="518689299" seo="true" ref="bb3">
+      <caption webpage="bb3" alt=""/>
+    </file>
+    <file name="word5.png" crc="120344952" seo="true" ref="bb4">
+      <caption webpage="bb4" alt=""/>
+    </file>
+    <file name="word6.png" crc="3865280823" seo="true" ref="bb5">
+      <caption webpage="bb5" alt=""/>
+    </file>
+    <file name="word7.png" crc="3905143954" seo="true" ref="bb6">
+      <caption webpage="bb6" alt=""/>
+    </file>
+  </folder>
+  <file name="mc.html" crc="3886308776" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="a.html" crc="4057534418" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="rb.html" crc="3992894547" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="index.html" crc="3873374219" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="mcm.html" crc="3819290097" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="cp.html" crc="4222330990" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="cpm.html" crc="161222143" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="m.html" crc="4174003112" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="cpm-mco.html" crc="4225606565" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="cpm-mcm.html" crc="4261124779" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="cpo.html" crc="4223437745" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="cpo-mcm.html" crc="3977683240" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="am.html" crc="4244511374" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="b.html" crc="4187189437" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="l.html" crc="365292789" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="t.html" crc="3973157282" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="g.html" crc="3781595581" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="lb.html" crc="53074996" seo="true" mt="1492616692708" redirect="true"/>
+  <file name="bb.html" crc="202055240" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="th.html" crc="3759095229" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="thd.html" crc="89731029" seo="true" mt="1492616691993" redirect="true"/>
+  <file name="lp.html" crc="4281389544" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="gb.html" crc="67471003" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="gf.html" crc="4156075029" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="gl.html" crc="297419540" seo="true" mt="1492616808853" redirect="true"/>
+  <file name="gr.html" crc="501594554" seo="true" mt="1492616825759" redirect="true"/>
+  <file name="bb1.html" crc="4238252368" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="bb2.html" crc="70864919" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="bb3.html" crc="4042274515" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="bb4.html" crc="3935025103" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="bb5.html" crc="3910146586" seo="true" mt="1492616792252" redirect="true"/>
+  <file name="bb6.html" crc="4165411551" seo="true" mt="1492616792252" redirect="true"/>
+</manifest>

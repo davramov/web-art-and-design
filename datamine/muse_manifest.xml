@@ -1,0 +1,142 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datamine.com" resolutions="1x" timestamp="1495468655859">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_hud.css" crc="247037184" ref="m3:m2:m4:m1"/>
+    <file name="master_a-master.css" crc="269857501" ref="advance:index:about"/>
+    <file name="advance.css" crc="3862999153" ref="advance"/>
+    <file name="m3.css" crc="138059457" ref="m3"/>
+    <file name="index.css" crc="4117989156" ref="index"/>
+    <file name="about.css" crc="220550657" ref="about"/>
+    <file name="m2.css" crc="3907878248" ref="m2"/>
+    <file name="m4.css" crc="4035395217" ref="m4"/>
+    <file name="m1.css" crc="99305548" ref="m1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="advance:about:m1:index:m2:m3:m4"/>
+    <file name="museutils.js" crc="4232573551" ref="advance:about:m1:index:m2:m3:m4"/>
+    <file name="whatinput.js" crc="86476730" ref="advance:about:m1:index:m2:m3:m4"/>
+    <file name="museconfig.js" crc="4152223963" ref="advance:about:m1:index:m2:m3:m4"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="advance:m1:index:m4"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="advance:about:index"/>
+    <file name="require.js" crc="4234670167" ref="advance:about:m1:index:m2:m3:m4"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="m1:m2:m3:m4"/>
+    <file name="html5shiv.js" crc="4241844378" ref="m1:index:m2:m3:m4"/>
+  </folder>
+  <folder name="images">
+    <file name="gr1-5.gif" crc="3761226275" ref="advance:m1">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="mine-shaft1.gif" crc="3901305249" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="u101-4.png" crc="3768221393" ref="advance"/>
+    <file name="u105-4.png" crc="255447128" ref="advance"/>
+    <file name="ethereum_name.png" crc="3899980746" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="ethereum_logo.png" crc="462441157" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="advance:index"/>
+    <file name="u369_states.png" crc="4229813959" ref="advance"/>
+    <file name="u369_states-r.png" crc="4142007938" ref="advance"/>
+    <file name="logo_facebook.png" crc="326297806" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="logo_flickr.png" crc="3790766302" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="logo_gplus.png" crc="3838392801" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="logo_insta.png" crc="306416216" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="logo_pinterest.png" crc="3823937622" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="logo_tumblr.png" crc="267938885" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="logo_twitter.png" crc="3990803490" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="logo_youtube.png" crc="174952029" seo="true" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="u1959-4.png" crc="3834717412" ref="advance"/>
+    <file name="u1973-4.png" crc="15496290" ref="advance"/>
+    <file name="live0002.gif" crc="3963346139" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="live0001.gif" crc="264938129" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="u2011-4.png" crc="166779094" ref="advance"/>
+    <file name="databit.jpg" crc="4227932954" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="databit1.jpg" crc="110561297" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="databit2.jpg" crc="326286803" ref="advance">
+      <caption webpage="advance" alt=""/>
+    </file>
+    <file name="u2059-4.png" crc="3934525114" ref="advance"/>
+    <file name="explain1.gif" crc="224785973" seo="true" ref="advance:about">
+      <caption webpage="advance" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u459-4.png" crc="55010940" ref="about"/>
+    <file name="u453-4.png" crc="200455447" ref="about"/>
+    <file name="u1376-4.png" crc="4114520346" ref="m1:m2:m3:m4"/>
+    <file name="db1.gif" crc="23681624" ref="m1">
+      <caption webpage="m1" alt=""/>
+    </file>
+    <file name="db3.gif" crc="4133478821" ref="m1">
+      <caption webpage="m1" alt=""/>
+    </file>
+    <file name="db2.gif" crc="4049250053" ref="m1">
+      <caption webpage="m1" alt=""/>
+    </file>
+    <file name="mine-entrance2.gif" crc="3870306950" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u736_states.png" crc="506726061" ref="index"/>
+    <file name="u736_states-r.png" crc="3958562213" ref="index"/>
+    <file name="db6.gif" crc="446410854" ref="m2">
+      <caption webpage="m2" alt=""/>
+    </file>
+    <file name="db5.gif" crc="4282442213" ref="m2">
+      <caption webpage="m2" alt=""/>
+    </file>
+    <file name="db4.gif" crc="4237614670" ref="m2">
+      <caption webpage="m2" alt=""/>
+    </file>
+    <file name="db9.gif" crc="4248473634" ref="m3">
+      <caption webpage="m3" alt=""/>
+    </file>
+    <file name="db7.gif" crc="4118007078" ref="m3">
+      <caption webpage="m3" alt=""/>
+    </file>
+    <file name="db8.gif" crc="3868025576" ref="m3">
+      <caption webpage="m3" alt=""/>
+    </file>
+    <file name="databit2_ani2.gif" crc="3809926077" ref="m4">
+      <caption webpage="m4" alt=""/>
+    </file>
+    <file name="databit2_ani3.gif" crc="507734400" ref="m4">
+      <caption webpage="m4" alt=""/>
+    </file>
+    <file name="databit2_ani1.gif" crc="3890322997" ref="m4">
+      <caption webpage="m4" alt=""/>
+    </file>
+  </folder>
+  <file name="advance.html" crc="4172702762" seo="true" mt="1495468592250" redirect="true"/>
+  <file name="about.html" crc="351447459" seo="true" mt="1495468400172" redirect="true"/>
+  <file name="m1.html" crc="335455027" seo="true" mt="1495468214844" redirect="true"/>
+  <file name="index.html" crc="370026294" seo="true" mt="1495458625252" redirect="true"/>
+  <file name="m2.html" crc="195954888" seo="true" mt="1495468214844" redirect="true"/>
+  <file name="m3.html" crc="3846198002" seo="true" mt="1495468214844" redirect="true"/>
+  <file name="m4.html" crc="4103085191" seo="true" mt="1495468214844" redirect="true"/>
+</manifest>
